@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  
+  .resume {
+    width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    /* border: 4px solid black; */
+    border-radius: 10%;
+    background-color: rgba(77, 70, 70, 0.123);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    /* background-image: url(); */
+  }
+  .resume{
+    background: url(  https://pm1.aminoapps.com/6510/b88f90c3624a0fdd3e899ee9dd7327be2878d22d_hq.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-blend-mode: lighten;
+    background-position-x: center;
+    background-position-y: center;
+  }
+
+  #profile {
+    height: 200px;
+    width: 90%;
+    /* border: 2px solid green; */
+    display:flex;
+    justify-content: space-around;
+  }
+
+  #profile > div{
+    height: 200px;
+    width: 50%;
+    /* border: 2px solid rgb(0, 6, 128); */
+    
+  }
+  
+  h2{
+    text-decoration: underline black;
+    
+  }
+  
+
+  img{
+    height: 200px;
+    border-radius: 16px;
+  } 
+
+  #name {
+    padding: 5% 0 5% 10%;
+  }
+  
+
+   
+  ul {
+    list-style-image:('https://images.search.yahoo.com/images/view;_ylt=Awrjd3HN_elklnU2zleJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzU2YTNjYjcxMThiZTFlNzUzZTAzMWJmYzUwZDQ5MDUwBGdwb3MDMjEEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Ditachi%2Bsaringan%26type%3DE210US1274G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D21&w=900&h=900&imgurl=e7.pngegg.com%2Fpngimages%2F498%2F444%2Fpng-clipart-itachi-uchiha-sharingan-uchiha-clan-naruto-sharingan-manga-video-game.png&rurl=https%3A%2F%2Fwww.pngegg.com%2Fes%2Fpng-iaydn&size=11.6KB&p=itachi+saringan&oid=56a3cb7118be1e753e031bfc50d49050&fr2=piv-web&fr=mcafee&tt=Itachi+uchiha+sharingan+uchiha+clan+naruto%2C+sharingan%2C+manga%2C+videojuego+png+%7C+PNGEgg&b=0&ni=21&no=21&ts=&tab=organic&sigr=szWYx_1Se6rz&sigb=Jn_WuCMSW5Ig&sigi=AlYFh14VdOG5&sigt=V9QIzBPiDy2l&.crumb=MXiCrkqskf.&fr=mcafee&fr2=piv-web&type=E210US1274G0');
+  }
+
+  
+  .section {
+    margin: 20px 0;
+  }
+  
+  .section h2 {
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: disc;
+    margin-left: 20px;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  hr{
+    height:2px;
+    border-width:0;
+    color:rgb(145, 22, 22);
+    background-color:rgb(68, 29, 223)
+  }
+ 
+  
